@@ -45,5 +45,7 @@ Thumbs.db
 # Project specific temporary files
 excluded_emails.txt
 
-#Ignore vscode AI rules
-.github\instructions\codacy.instructions.md
+# AI and Code Quality Tools (keep local only)
+.github/instructions/
+.codacy/
+codacy.instructions.md
