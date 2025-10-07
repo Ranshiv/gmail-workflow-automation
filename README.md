@@ -4,7 +4,7 @@
 ### *Intelligent Email Management & Automation System*
 
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://python.org)
-[![Gmail API](https://img.shields.io/badge/Gmail-API%20v1-red- 📊 **Scalable**: Handle hundreds of emailssvg)](https://developers.google.com/gmail/api)
+[![Gmail API](https://img.shields.io/badge/Gmail-API%20v1-red.svg)](https://developers.google.com/gmail/api)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg)](https://github.com/user/repo)
 
