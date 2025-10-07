@@ -1,0 +1,49 @@
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Test files
+test_*.py
+*_test.py
+debug_*.py
+
+# Logs
+logs/
+*.log
+
+# Credentials and sensitive data
+credentials/
+token.json
+credentials.json
+.env
+.env.local
+
+# Backup files
+*_backup.py
+*.bak
+*.tmp
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Project specific temporary files
+excluded_emails.txt
+
+#Ignore vscode AI rules
+.github\instructions\codacy.instructions.md
